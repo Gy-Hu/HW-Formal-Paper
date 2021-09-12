@@ -127,19 +127,19 @@ The papers I selected on here are all from top publication venues. All the selec
 * <img src="image/pdf_24px.png">[Paper](https://alastairreid.github.io/papers/cav2016_isa_formal.pdf)
 * <img src="image/ppt_24px.png">[Slide](https://alastairreid.github.io/papers/cav2016_isa_formal-slides.pdf)
 
-**Summary:** Currenrly most broadly applicable formal verification technique for verifying processor pipeline control.
+**Abstract:** This paper describes how ARM has overcome these issues in our Instruc- tion Set Architecture Formal Verification framework “ISA-Formal.” This is an end-to-end framework to detect bugs in the datapath, pipeline con- trol and forwarding/stall logic of processors. A key part of making the approach scale is use of a mechanical translation of ARM’s Architecture Reference Manuals to Verilog allowing the use of commercial model checkers. ISA-Formal has proven especially effective at finding micro- architecture specific bugs involving complex sequences of instructions. An essential feature of our work is that it is able to scale all the way from simple 3-stage microcontrollers, through superscalar in-order processors up to out-of-order processors. We have applied this method to 8 different ARM processors spanning all stages of development up to release. In all processors, this has found bugs that would have been hard for conventional simulation-based verification to find and ISA-Formal is now a key part of ARM’s formal verification strategy. To the best of our knowledge, this is the most broadly applicable formal verification technique for verifying processor pipeline control in mainstream commercial use.
 
 ###  SAT-Based Model Checking without Unrolling
 
 * <img src="image/pdf_24px.png">[Paper](http://alcom.ee.ntu.edu.tw/system/privatezone/meetingfile/201010222258251.pdf)
 
-**Summary:** This paper introduce IC3 algorithm. 
+**Abstract:** A new form of SAT-based symbolic model checking is described. Instead of unrolling the transition relation, it incrementally gen- erates clauses that are inductive relative to (and augment) stepwise ap- proximate reachability information. In this way, the algorithm gradually refines the property, eventually producing either an inductive strengthen- ing of the property or a counterexample trace. Our experimental studies show that induction is a powerful tool for generalizing the unreachability of given error states: it can refine away many states at once, and it is effective at focusing the proof search on aspects of the transition system relevant to the property. Furthermore, the incremental structure of the algorithm lends itself to a parallel implementation.
 
 ### Efficient implementation of property directed reachability
 
 * <img src="image/pdf_24px.png">[Paper](https://www.cs.utexas.edu/~ragerdl/fmcad11/papers/7.pdf)
 
-**Summary:** Easier version to understand IC3/PDR.
+**Abstract:** Last spring, in March 2010, Aaron Bradley published the first truly new bit-level symbolic model checking algorithm since Ken McMillan’s interpolation based model checking pro- cedure introduced in 2003. Our experience with the algorithm suggests that it is stronger than interpolation on industrial prob- lems, and that it is an important algorithm to study further. In this paper, we present a simplified and faster implementation of Bradley’s procedure, and discuss our successful and unsuccessful attempts to improve it.
 
 
 ## Appendix
