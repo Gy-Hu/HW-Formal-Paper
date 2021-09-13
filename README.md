@@ -172,6 +172,9 @@ The full name of selected conference and jornals:
       1. 3rd Nov (2020)
 5. **DATE** (Design, Automation & Test in Europe)
    1. [1998-2021 Accepted Papers](https://dl.acm.org/conference/date/proceedings)
+   2. Past Best Papers
+      1. [2021 Best Papers](https://past.date-conference.com/proceedings-archive/2021/html/bestpaper.html)
+      2. [2020 Best Papers](https://past.date-conference.com/proceedings-archive/2020/html/bestpaper.html)
 6. **ICCAD** (International Conference on Computer-Aided Design)
    1. [1992-2021 Accepted Papers](https://dl.acm.org/conference/iccad/proceedings)
 7. **ASP-DAC** (Asia and South Pacific Design Automation Conference)
