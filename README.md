@@ -92,7 +92,7 @@ The papers I selected on here are all from top publication venues. All the selec
 - **Weak Memory Model**
   - Robustness between Weak Memory Models, FMCAD 2021
 - **AI+Formal**
-  - MachSMT: A Machine Learning-based Algorithm Selector for SMT Solvers, 2021
+  - MachSMT: A Machine Learning-based Algorithm Selector for SMT Solvers, TACAS 2021
   - Code2Inv: A Deep Learning Framework for Program Verification, CAV 2020
   - A Data-Driven CHC Solver, PLDI 2018
   - ICE: A Robust Framework for Learning Invariants, CAV 2014
