@@ -83,13 +83,16 @@ The papers I selected on here are all from top publication venues. All the selec
   - Distributed Bounded Model Checking, FMCAD 2020
   - A Cooperative Parallelization Approach for Property-Directed k-Induction, VMCAI 2020
 - **Neural Network Verification**
-  - Verification of Recurrent Neural Networks for Cognitive Tasks via Reachability Analysis, ECAI 2020
+  - The Marabou Framework for Verification and Analysis of Deep Neural Networks,CAV 2019
+  - Towards Scalable Complete Verification of ReLU Neural Networks via Dependency-based Branching, IJCAI 2021
+  - (Look for VNN-COMP for the latest solvers and techniques)
 - **Side-Channel Attack**
   - A Formal Approach for Detecting Vulnerabilities to Transient Execution Attacks in Out-of-Order Processors, 2020
   - Abstract Interpretation under Speculative Execution, PLDI 2019
   - When Capacitors Attack: Formal Method Driven Design and Detection of Charge-Domain Trojans, DATE 2019
   - Checkmate: Automated synthesis of hardware exploits and security litmus tests, MICRO 2018
 - **Weak Memory Model**
+  - Herding Cats: Modelling, Simulation, Testing, and Data Mining for Weak Memory, TOPLAS14
   - Robustness between Weak Memory Models, FMCAD 2021
 - **AI+Formal**
   - MachSMT: A Machine Learning-based Algorithm Selector for SMT Solvers, TACAS 2021
