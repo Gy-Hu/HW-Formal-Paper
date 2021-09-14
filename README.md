@@ -56,7 +56,11 @@ The papers I selected on here are all from top publication venues. All the selec
 - **TODAES**
   - Instruction-Level Abstraction (ILA): A Uniform Specification for System-on-Chip (SoC) Verification, 2020 (best paper)
 - **ECAI**
-  - Verification of Recurrent Neural Networks for Cognitive Tasks via Reachability Analysis, 2020
+  - Efficient Neural Network Verification via Adaptive Refinement and Adversarial Search, ECAI 2020
+- **ICML**
+  - Beta-CROWN: Efficient Bound Propagation with Per-neuron Split Constraints for Complete and Incomplete Neural Network Verification, workshop 2021
+- **ICLR**
+  - Fast and Complete: Enabling Complete Neural Network Verification with Rapid and Massively Parallel Incomplete Verifiers, 2021
 - **PLDI**
   - Abstract Interpretation under Speculative Execution, 2019
   - [A Data-Driven CHC Solver, 2018](#a-data-driven-chc-solver)
@@ -92,6 +96,9 @@ The papers I selected on here are all from top publication venues. All the selec
 - **Neural Network Verification**
   - The Marabou Framework for Verification and Analysis of Deep Neural Networks,CAV 2019
   - Towards Scalable Complete Verification of ReLU Neural Networks via Dependency-based Branching, IJCAI 2021
+  - Beta-CROWN: Efficient Bound Propagation with Per-neuron Split Constraints for Complete and Incomplete Neural Network Verification, ICML workshop 2021
+  - Fast and Complete: Enabling Complete Neural Network Verification with Rapid and Massively Parallel Incomplete Verifiers, ICLR 2021
+  - Efficient Neural Network Verification via Adaptive Refinement and Adversarial Search, ECAI 2020
   - (Look for VNN-COMP for the latest solvers and techniques)
 - **Side-Channel Attack**
   - A Formal Approach for Detecting Vulnerabilities to Transient Execution Attacks in Out-of-Order Processors, 2020
