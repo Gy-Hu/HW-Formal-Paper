@@ -16,8 +16,10 @@ The papers I selected on here are all from top publication venues. All the selec
 ## Papers Classified by Publication
 
 - **Survey/Review**
+  - Algorithms for verifying deep neural networks, arxiv 2020
+  - A convex relaxation barrier to tight robustness verification of neural networks, NeurIPS 2019
   - A survey of side-channel attacks on caches and countermeasures, 2018
-  - A Survey on the Application of Machine Learning to Formal Verification, 2018
+  - ML + FV = ? A Survey on the Application of Machine Learning to Formal Verification, 2018
 - **FMCAD**
   - [IC3 with Internal Signals, 2021](#ic3-with-internalignals)
   - End-to-End Formal Verification of a RISC-V Processor Extended with Capability Pointers, 2021
@@ -74,7 +76,10 @@ The papers I selected on here are all from top publication venues. All the selec
 ## Papers Classified by Subject
 
 - **Survey/Review**
-  - A Survey on the Application of Machine Learning to Formal Verification, arxiv 2018
+  - Algorithms for verifying deep neural networks, arxiv 2020
+  - A convex relaxation barrier to tight robustness verification of neural networks, NeurIPS 2019
+  - A survey of side-channel attacks on caches and countermeasures, 2018
+  - ML + FV = ? A Survey on the Application of Machine Learning to Formal Verification, arxiv 2018
 - **Model Checking**
   - SAT-Based Model Checking without Unrolling, VMCAI 2011
   - Efficient implementation of property directed reachability, FMCAD 2011
@@ -113,6 +118,7 @@ The papers I selected on here are all from top publication venues. All the selec
    4. [Xiaolong Guo](https://www.ece.k-state.edu/people/faculty/guo/) (Formal verification for side-channel attack prevention on hardware)
    5. [Xujie Si](https://www.cs.mcgill.ca/~xsi/#research) (AI + Formal researcher)
    6. [He Zhu](https://herowanzhu.github.io/#publication) (Author of data-driven CHC solver)
+   7. [Kaidi Xu](https://kaidixu.com/) (Expert on neural network verification)
 2. **Europe**
    1. [JKU-Institute for Formal Models and Verification Group](http://fmv.jku.at/index.html) (Organizer of HWMCC'20, has good publication record in formal verification)
    2. [TU Graz-IAIK](https://www.iaik.tugraz.at/research-area/formalmethods/) (Focus on formal method and computer security)
