@@ -66,6 +66,8 @@ The papers I selected on here are all from top publication venues. All the selec
   - [A Data-Driven CHC Solver, 2018](#a-data-driven-chc-solver)
 - **CCS**
   -  A Formal Foundation for Secure Remote Execution of Enclaves, 2017 (best paper)
+- **FPGA**
+  - Finding and Understanding Bugs in FPGA Synthesis Tools, 2020
 - **HVC** 
 - **NFM**
 - **POPL**
