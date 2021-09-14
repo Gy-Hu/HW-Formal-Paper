@@ -34,6 +34,7 @@ The papers I selected on here are all from top publication venues. All the selec
   - [SAT-Based Model Checking without Unrolling, 2011](#sat-based-model-checking-without-unrolling)
 - **CAV**
   - Pono: A Flexible and Extensible SMT-Based Model Checker, 2021
+  - GPU Acceleration of Bounded Model Checking with ParaFROST, 2021
   - [Code2Inv: A Deep Learning Framework for Program Verification, 2020](#code2inv-a-deep-learning-framework-for-program-verification)
   - StringFuzz: A fuzzer for string solvers, 2018
   - [End-to-End Verification of ARM Processors with ISA-Formal, 2016](#end-to-end-verification-of-arm-processors-with-isa-formal)
@@ -84,6 +85,7 @@ The papers I selected on here are all from top publication venues. All the selec
   - SAT-Based Model Checking without Unrolling, VMCAI 2011
   - Efficient implementation of property directed reachability, FMCAD 2011
 - **Formal Verification Acceleration**
+  - GPU Acceleration of Bounded Model Checking with ParaFROST, CAV 2021
   - SAT Solving with GPU Accelerated Inprocessing, TACAS 2021
   - Distributed Bounded Model Checking, FMCAD 2020
   - A Cooperative Parallelization Approach for Property-Directed k-Induction, VMCAI 2020
