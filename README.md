@@ -27,6 +27,9 @@ The papers I selected on here are all from top publication venues. All the selec
   - A Multithreaded Vampire with Shared Persistent Grounding, 2021
   - Data-driven Optimization of Inductive Generalization, 2021
   - [Distributed Bounded Model Checking, 2020](#distributed-bounded-model-checking)
+  - Symbolic Trajectory Evaluation: 
+    The Primary Validation Vehicle for Next 
+    Generation Intel® Processor Graphics FPU, 2012
   - [Efficient implementation of property directed reachability, 2011](#efficient-implementation-of-property-directed-reachability)
 - **VMCAI**
   - Synthesizing Environment Invariants for Modular Hardware Verification, 2020
