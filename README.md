@@ -21,7 +21,7 @@ The papers I selected on here are all from top publication venues. All the selec
   - A survey of side-channel attacks on caches and countermeasures, 2018
   - ML + FV = ? A Survey on the Application of Machine Learning to Formal Verification, 2018
 - **FMCAD**
-  - [IC3 with Internal Signals, 2021](#ic3-with-internalignals)
+  - [IC3 with Internal Signals, 2021](#ic3-with-internal-signals)
   - End-to-End Formal Verification of a RISC-V Processor Extended with Capability Pointers, 2021
   - [Robustness between Weak Memory Models, 2021](#robustness-between-weak-memory-models)
   - A Multithreaded Vampire with Shared Persistent Grounding, 2021
@@ -125,7 +125,7 @@ The papers I selected on here are all from top publication venues. All the selec
 
 ## Researchers to Follow-up
 
-1. **U.S.**
+1. **North America**
    1. [Timothy Trippel](https://timothytrippel.com) (Hardware security, side-channel attack)
    2. [Caroline Trippel](https://cs.stanford.edu/people/trippel/) (Formal verification for hardware security)
    3. [Aman Goel](https://aman-goel.github.io) (The main developer of AVR, IC3po)
@@ -133,6 +133,7 @@ The papers I selected on here are all from top publication venues. All the selec
    5. [Xujie Si](https://www.cs.mcgill.ca/~xsi/#research) (AI + Formal researcher)
    6. [He Zhu](https://herowanzhu.github.io/#publication) (Author of data-driven CHC solver)
    7. [Kaidi Xu](https://kaidixu.com/) (Expert on neural network verification)
+   8. [Arie Gurfinkel](https://arieg.bitbucket.io/index.html#.YU2zO3sRVH4) (Developer of Spacer, SeaHorn, Avy, etc.)
 2. **Europe**
    1. [JKU-Institute for Formal Models and Verification Group](http://fmv.jku.at/index.html) (Organizer of HWMCC'20, has good publication record in formal verification)
    2. [TU Graz-IAIK](https://www.iaik.tugraz.at/research-area/formalmethods/) (Focus on formal method and computer security)
