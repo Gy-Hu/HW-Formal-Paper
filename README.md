@@ -142,6 +142,7 @@ The papers I selected on here are all from top publication venues. All the selec
    3. [Clifford Wolf](http://www.clifford.at) (From [SymbioticEDA](http://www.symbioticeda.com), conducting research on [riscv-formal](https://github.com/SymbioticEDA/riscv-formal)) 
    4. [Cambridge-REMS](https://www.cl.cam.ac.uk/~pes20/rems/) (ISA-formal)
    5. [USI - Formal Verification and Security Lab](http://verify.inf.usi.ch/)
+   6. [Yakir Vizel](http://cs.technion.ac.il/~yvizel/research/) (Technion)
 3. **Asia**
    1. [Yibo Lin](https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en) (Implement ML for routing and placement)
    2. [Aquinas Hobor](https://www.comp.nus.edu.sg/~hobor/) (Expert on formal verification and computer  security)
