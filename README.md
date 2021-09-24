@@ -71,6 +71,8 @@ The papers I selected on here are all from top publication venues. All the selec
   -  A Formal Foundation for Secure Remote Execution of Enclaves, 2017 (best paper)
 - **FPGA**
   - Finding and Understanding Bugs in FPGA Synthesis Tools, 2020
+- **TCAD**
+  - Comparing different variants of the IC3 algorithm for hardware model checking, 2015
 - **HVC** 
 - **NFM**
 - **POPL**
@@ -299,6 +301,8 @@ The full name of selected conference and jornals:
     1. [2020 Accepted Papers](https://ti.arc.nasa.gov/events/nfm-2020/papers/)
 17. **FM** (International Symposium on Formal Methods)
     1. [2019 Accepted Papers](https://formalmethods2019.inesctec.pt/accepted-papers/)
+18. **TCAD** (IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems)
+    1. [1982-2021 Accepted Papers](https://dblp.org/db/journals/tcad/index.html)
 
 **Jornal**
 
