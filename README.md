@@ -81,6 +81,7 @@ The papers I selected on here are all from top publication venues. All the selec
 - **Arxiv**
   - Fuzzing Hardware Like Software, 2021
   - System-on-Chip Security Assertions, 2020
+  - OpenABC-D: A Large-Scale Dataset For Machine Learning Guided Integrated Circuit Synthesis, NIPS open review 2021
 - **Others**
   - Abstraction mechanisms for hardware verification, *VLSI Specification, Verification and Synthesis* 1988
   - [Heuristic Model Checking using a Monte-Carlo Tree Search Algorithm, GECCO 2015](#heuristic-model-checking-using-a-monte-carlo-tree-search-algorithm)
