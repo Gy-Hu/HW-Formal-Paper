@@ -150,6 +150,7 @@ The papers I selected on here are all from top publication venues. All the selec
    1. [Yibo Lin](https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en) (Implement ML for routing and placement)
    2. [Aquinas Hobor](https://www.comp.nus.edu.sg/~hobor/) (Expert on formal verification and computer  security)
    3. [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/) (Expert on AI, security and formal verification)
+   4. [Chandan Karfa](https://www.iitg.ac.in/ckarfa/) (FPGA security, formal verification)
 
 ## Details of Papers
 
