@@ -76,6 +76,9 @@ The papers I selected on here are all from top publication venues. All the selec
 - **HVC** 
 - **NFM**
 - **POPL**
+  - Solving Constrained Horn Clauses Modulo Algebraic Data Types and Recursive Functions, 2022
+  - [Property-Directed Reachability as Abstract Interpretation in the Monotone Theory](http://link.zhihu.com/?target=https%3A//popl22.sigplan.org/track/POPL-2022-popl-research-papers%23), 2022
+  - Software Model-Checking as Cyclic-Proof Search, 2022
 - **ASPLOS**
 - **ASP-DAC**
 - **Arxiv**
