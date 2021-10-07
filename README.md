@@ -137,6 +137,7 @@ The papers I selected on here are all from top publication venues. All the selec
    6. [He Zhu](https://herowanzhu.github.io/#publication) (Author of data-driven CHC solver)
    7. [Kaidi Xu](https://kaidixu.com/) (Expert on neural network verification)
    8. [Arie Gurfinkel](https://arieg.bitbucket.io/index.html#.YU2zO3sRVH4) (Developer of Spacer, SeaHorn, Avy, etc.)
+   9. [CMU Model Checking Group](https://www.cs.cmu.edu/~modelcheck/people.htm)
 2. **Europe**
    1. [JKU-Institute for Formal Models and Verification Group](http://fmv.jku.at/index.html) (Organizer of HWMCC'20, has good publication record in formal verification)
    2. [TU Graz-IAIK](https://www.iaik.tugraz.at/research-area/formalmethods/) (Focus on formal method and computer security)
@@ -147,7 +148,8 @@ The papers I selected on here are all from top publication venues. All the selec
    7. [Sharon Shoham Buchbinder](https://www.tau.ac.il/~sharonshoham/) (Tel Aviv University)
    8. [Noam Rinetzky](https://www.cs.tau.ac.il/~maon/)  (Tel Aviv University)
    9. [Oxford System Verification Group](http://www.cprover.org) (Develop many interesting SW/HW verification tools)
-   10. [ftsrg](http://inf.mit.bme.hu/en) (developers of theta, from [Critical Systems Research Group](http://inf.mit.bme.hu/en) of [Budapest University of Technology and Economics](http://www.bme.hu/?language=en))
+   10. [ftsrg](http://inf.mit.bme.hu/en) - Budapest University of Technology and Economic (developers of theta, from [Critical Systems Research Group](http://inf.mit.bme.hu/en) of [Budapest University of Technology and Economics](http://www.bme.hu/?language=en))
+   11. [Roberto Sebastiani](http://disi.unitn.it/~rseba/) (Developer of NuSMV, MathSAT, etc. His student  [Alberto Griggio](https://es-static.fbk.eu/people/griggio/) is the developer of ic3ia)
 3. **Asia**
    1. [Yibo Lin](https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en) (Implement ML for routing and placement)
    2. [Aquinas Hobor](https://www.comp.nus.edu.sg/~hobor/) (Expert on formal verification and computer  security)
