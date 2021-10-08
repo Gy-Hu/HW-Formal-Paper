@@ -126,6 +126,9 @@ The papers I selected on here are all from top publication venues. All the selec
   - ICE: A Robust Framework for Learning Invariants, CAV 2014
 - **Fuzzing**
   - StringFuzz: A fuzzer for string solvers, CAV 2018
+  - Feedback-Guided Circuit Structure Mutation for Testing Hardware Model Checkers, ICCAD 2021
+- **Reverse Engineering**
+  - Reverse Engineering Register to Variable Mapping in High-level Synthesis, ISVLSI 2021
 - **Logic Design and Verification**
 - **Firmware and Systems-on-Chip Security**
 
@@ -158,7 +161,7 @@ The papers I selected on here are all from top publication venues. All the selec
    2. [Aquinas Hobor](https://www.comp.nus.edu.sg/~hobor/) (Expert on formal verification and computer  security)
    3. [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/) (Expert on AI, security and formal verification)
    4. [Chandan Karfa](https://www.iitg.ac.in/ckarfa/) (FPGA security, formal verification)
-   5. [Chengyu Zhang](http://chengyuzhang.com) (Hardware Model Checker Testing, from [Zhangdong Su](https://people.inf.ethz.ch/suz/)'s team)
+   5. [Chengyu Zhang](http://chengyuzhang.com) (Hardware Model Checker Testing, from [Zhengdong Su](https://people.inf.ethz.ch/suz/)'s team)
 
 ## Details of Papers
 
