@@ -162,6 +162,7 @@ The papers I selected on here are all from top publication venues. All the selec
    3. [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/) (Expert on AI, security and formal verification)
    4. [Chandan Karfa](https://www.iitg.ac.in/ckarfa/) (FPGA security, formal verification)
    5. [Chengyu Zhang](http://chengyuzhang.com) (Hardware Model Checker Testing, from [Zhengdong Su](https://people.inf.ethz.ch/suz/)'s team)
+   6. [Huawei li](https://scholar.google.com.hk/citations?user=-nRJJYEAAAAJ&hl=en) (Testing and model checking, from Chinese Academy of Sciences)
 
 ## Details of Papers
 
