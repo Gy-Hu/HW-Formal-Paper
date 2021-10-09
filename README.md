@@ -156,6 +156,7 @@ The papers I selected on here are all from top publication venues. All the selec
    9. [Oxford System Verification Group](http://www.cprover.org) (Develop many interesting SW/HW verification tools)
    10. [ftsrg](http://inf.mit.bme.hu/en) - Budapest University of Technology and Economic (developers of theta, from [Critical Systems Research Group](http://inf.mit.bme.hu/en) of [Budapest University of Technology and Economics](http://www.bme.hu/?language=en))
    11. [Roberto Sebastiani](http://disi.unitn.it/~rseba/) (Developer of NuSMV, MathSAT, etc. His student  [Alberto Griggio](https://es-static.fbk.eu/people/griggio/) is the developer of ic3ia)
+   12. [Anton Wijs](https://www.win.tue.nl/~awijs/) (Researcher on leverage GPU to accelerate SAT solving. ParaFROST which performs well on SAT Competition is their tool)
 3. **Asia**
    1. [Yibo Lin](https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en) (Implement ML for routing and placement)
    2. [Aquinas Hobor](https://www.comp.nus.edu.sg/~hobor/) (Expert on formal verification and computer  security)
