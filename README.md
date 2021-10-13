@@ -144,6 +144,7 @@ The papers I selected on here are all from top publication venues. All the selec
    7. [Kaidi Xu](https://kaidixu.com/) (Expert on neural network verification)
    8. [Arie Gurfinkel](https://arieg.bitbucket.io/index.html#.YU2zO3sRVH4) (Developer of Spacer, SeaHorn, Avy, etc.)
    9. [CMU Model Checking Group](https://www.cs.cmu.edu/~modelcheck/people.htm)
+   10. [Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/index.html) (Their team developed CVC4, Kind 2, etc.)
 2. **Europe**
    1. [JKU-Institute for Formal Models and Verification Group](http://fmv.jku.at/index.html) (Organizer of HWMCC'20, has good publication record in formal verification)
    2. [TU Graz-IAIK](https://www.iaik.tugraz.at/research-area/formalmethods/) (Focus on formal method and computer security)
