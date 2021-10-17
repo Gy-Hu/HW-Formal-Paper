@@ -77,7 +77,7 @@ The papers I selected on here are all from top publication venues. All the selec
 - **NFM**
 - **POPL**
   - Solving Constrained Horn Clauses Modulo Algebraic Data Types and Recursive Functions, 2022
-  - [Property-Directed Reachability as Abstract Interpretation in the Monotone Theory](http://link.zhihu.com/?target=https%3A//popl22.sigplan.org/track/POPL-2022-popl-research-papers%23), 2022
+  - [Property-Directed Reachability as Abstract Interpretation in the Monotone Theory](https://popl22.sigplan.org/track/POPL-2022-popl-research-papers#), 2022
   - Software Model-Checking as Cyclic-Proof Search, 2022
 - **ASPLOS**
 - **ASP-DAC**
@@ -158,6 +158,7 @@ The papers I selected on here are all from top publication venues. All the selec
    10. [ftsrg](http://inf.mit.bme.hu/en) - Budapest University of Technology and Economic (developers of theta, from [Critical Systems Research Group](http://inf.mit.bme.hu/en) of [Budapest University of Technology and Economics](http://www.bme.hu/?language=en))
    11. [Roberto Sebastiani](http://disi.unitn.it/~rseba/) (Developer of NuSMV, MathSAT, etc. His student  [Alberto Griggio](https://es-static.fbk.eu/people/griggio/) is the developer of ic3ia)
    12. [Anton Wijs](https://www.win.tue.nl/~awijs/) (Researcher on leverage GPU to accelerate SAT solving. ParaFROST which performs well on SAT Competition is their tool)
+   13. [Maris Christakis](https://mariachris.github.io/software.html) (From MPI. Working on SMT solver fuzzing, program analysis)
 3. **Asia**
    1. [Yibo Lin](https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en) (Implement ML for routing and placement)
    2. [Aquinas Hobor](https://www.comp.nus.edu.sg/~hobor/) (Expert on formal verification and computer  security)
