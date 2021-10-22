@@ -167,6 +167,9 @@ The papers I selected on here are all from top publication venues. All the selec
    5. [Chengyu Zhang](http://chengyuzhang.com) (Hardware Model Checker Testing, from [Zhengdong Su](https://people.inf.ethz.ch/suz/)'s team)
    6. [Huawei li](https://scholar.google.com.hk/citations?user=-nRJJYEAAAAJ&hl=en) (Testing and model checking, from Chinese Academy of Sciences)
    7. [Hiroshi UNNO](http://www.cs.tsukuba.ac.jp/~uhiro/) (Model Checking Researcher, their group's PCSat performs well on CHC-COMP 2021)
+   8. [Jianwen Li](https://scholar.google.com/citations?user=kpv4RzgAAAAJ&hl=en) (Author of Complementary Approximate Reachability (CAR), working on formal verification)
+   9. [Ming Fu](https://brightfu.github.io) (Working on OS verification)
+   10. [Xinyu Feng](https://cs.nju.edu.cn/xyfeng/) (Formalize ISA, corresponding author of SPARCV8-coq formal)
 
 ## Details of Papers
 
