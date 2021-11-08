@@ -20,6 +20,9 @@ The papers I selected on here are all from top publication venues. All the selec
   - A convex relaxation barrier to tight robustness verification of neural networks, NeurIPS 2019
   - A survey of side-channel attacks on caches and countermeasures, 2018
   - ML + FV = ? A Survey on the Application of Machine Learning to Formal Verification, 2018
+  - *[Formal Verification in Hardware Design](http://dl.acm.org/citation.cfm?id=307989): A Survey*
+  - [*A Survey of Automated Techniques for Formal Software Verification*](http://www.kroening.com/publications/view-publications-dkw2008.html)
+  - [Formal Verification Reviews and Surveys](https://www.cerc.utexas.edu/~jay/fv_surveys/) (Collected by utexas)
 - **FMCAD**
   - [IC3 with Internal Signals, 2021](#ic3-with-internal-signals)
   - End-to-End Formal Verification of a RISC-V Processor Extended with Capability Pointers, 2021
