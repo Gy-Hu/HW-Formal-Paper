@@ -148,6 +148,7 @@ The papers I selected on here are all from top publication venues. All the selec
    8. [Arie Gurfinkel](https://arieg.bitbucket.io/index.html#.YU2zO3sRVH4) (Developer of Spacer, SeaHorn, Avy, etc.)
    9. [CMU Model Checking Group](https://www.cs.cmu.edu/~modelcheck/people.htm)
    10. [Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/index.html) (Their team developed CVC4, Kind 2, etc.)
+   11. [Moshe Y. Vardo](https://www.cs.rice.edu/~vardi/) (Logic AI)
 2. **Europe**
    1. [JKU-Institute for Formal Models and Verification Group](http://fmv.jku.at/index.html) (Organizer of HWMCC'20, has good publication record in formal verification)
    2. [TU Graz-IAIK](https://www.iaik.tugraz.at/research-area/formalmethods/) (Focus on formal method and computer security)
@@ -173,6 +174,7 @@ The papers I selected on here are all from top publication venues. All the selec
    8. [Jianwen Li](https://scholar.google.com/citations?user=kpv4RzgAAAAJ&hl=en) (Author of Complementary Approximate Reachability (CAR), working on formal verification)
    9. [Ming Fu](https://brightfu.github.io) (Working on OS verification)
    10. [Xinyu Feng](https://cs.nju.edu.cn/xyfeng/) (Formalize ISA, corresponding author of SPARCV8-coq formal)
+   11. [Yizheng Zhao](https://ai.nju.edu.cn/zhaoyizheng/) (Logics for Knowledge Representation and Automated Reasoning)
 
 ## Details of Papers
 
@@ -281,8 +283,9 @@ The full name of selected conference and jornals:
       1. 14th May (2021)
 2. **VMCAI** (International Conference on Verification, Model Checking, and Abstract Interpretation)
    1. Accepted Papers
-      1. [2021 Accepted Papers](https://popl21.sigplan.org/home/VMCAI-2021#event-overview)
-      2. [2020 Accepted Papers](https://popl20.sigplan.org/home/VMCAI-2020#event-overview)
+      1. [2022 Accepted Papers](https://popl22.sigplan.org/home/VMCAI-2022#event-overview)
+      2. [2021 Accepted Papers](https://popl21.sigplan.org/home/VMCAI-2021#event-overview)
+      3. [2020 Accepted Papers](https://popl20.sigplan.org/home/VMCAI-2020#event-overview)
    2. Submission Deadline
       1. 2nd Sep (2021)
 3. **CAV** (Computer Aided Verification)
