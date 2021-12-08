@@ -163,6 +163,7 @@ The papers I selected on here are all from top publication venues. All the selec
    11. [Roberto Sebastiani](http://disi.unitn.it/~rseba/) (Developer of NuSMV, MathSAT, etc. His student  [Alberto Griggio](https://es-static.fbk.eu/people/griggio/) is the developer of ic3ia)
    12. [Anton Wijs](https://www.win.tue.nl/~awijs/) (Researcher on leverage GPU to accelerate SAT solving. ParaFROST which performs well on SAT Competition is their tool)
    13. [Maris Christakis](https://mariachris.github.io/software.html) (From MPI. Working on SMT solver fuzzing, program analysis)
+   14. [Keijo Heljanko](https://scholar.google.com/citations?hl=en&user=TOSfazMAAAAJ&view_op=list_works&sortby=pubdate) (model checking, data science)
 3. **Asia**
    1. [Yibo Lin](https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en) (Implement ML for routing and placement)
    2. [Aquinas Hobor](https://www.comp.nus.edu.sg/~hobor/) (Expert on formal verification and computer  security)
