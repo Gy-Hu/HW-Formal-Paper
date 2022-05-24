@@ -150,6 +150,7 @@ The papers I selected on here are all from top publication venues. All the selec
    10. [Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/index.html) (Their team developed CVC4, Kind 2, etc.)
    11. [Moshe Y. Vardo](https://www.cs.rice.edu/~vardi/) (Logic AI)
    12. [Grigory Fedyukovich](https://www.cs.fsu.edu/~grigory/) (PDR/IC3 in HW/SW)
+   13. [Zhou Hai](http://www.eecs.northwestern.edu/~haizhou/) (SAT solver, IC3, SW verification)
 2. **Europe**
    1. [JKU-Institute for Formal Models and Verification Group](http://fmv.jku.at/index.html) (Organizer of HWMCC'20, has good publication record in formal verification)
    2. [TU Graz-IAIK](https://www.iaik.tugraz.at/research-area/formalmethods/) (Focus on formal method and computer security)
@@ -177,6 +178,7 @@ The papers I selected on here are all from top publication venues. All the selec
    9. [Ming Fu](https://brightfu.github.io) (Working on OS verification)
    10. [Xinyu Feng](https://cs.nju.edu.cn/xyfeng/) (Formalize ISA, corresponding author of SPARCV8-coq formal)
    11. [Yizheng Zhao](https://ai.nju.edu.cn/zhaoyizheng/) (Logics for Knowledge Representation and Automated Reasoning)
+
 
 ## Details of Papers
 
