@@ -151,6 +151,7 @@ The papers I selected on here are all from top publication venues. All the selec
    11. [Moshe Y. Vardo](https://www.cs.rice.edu/~vardi/) (Logic AI)
    12. [Grigory Fedyukovich](https://www.cs.fsu.edu/~grigory/) (PDR/IC3 in HW/SW)
    13. [Zhou Hai](http://www.eecs.northwestern.edu/~haizhou/) (SAT solver, IC3, SW verification)
+   14. [Bruno Dutertre](https://brunodutertre.github.io/) (K inductive ic3)
 2. **Europe**
    1. [JKU-Institute for Formal Models and Verification Group](http://fmv.jku.at/index.html) (Organizer of HWMCC'20, has good publication record in formal verification)
    2. [TU Graz-IAIK](https://www.iaik.tugraz.at/research-area/formalmethods/) (Focus on formal method and computer security)
