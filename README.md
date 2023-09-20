@@ -152,6 +152,9 @@ The papers I selected on here are all from top publication venues. All the selec
    12. [Grigory Fedyukovich](https://www.cs.fsu.edu/~grigory/) (PDR/IC3 in HW/SW)
    13. [Zhou Hai](http://www.eecs.northwestern.edu/~haizhou/) (SAT solver, IC3, SW verification)
    14. [Bruno Dutertre](https://brunodutertre.github.io/) (K inductive ic3)
+   15. [AHA Agile Hardware Project](https://aha.stanford.edu/) (G-QED, cvc5)
+   16. [Robust Systems Group (RSG)](https://rsg.stanford.edu/) (SQED)
+   17. [Scaling Up Formal Tools for POSH Open Source Hardware](https://upscale.stanford.edu/) (ILAng)
 2. **Europe**
    1. [JKU-Institute for Formal Models and Verification Group](http://fmv.jku.at/index.html) (Organizer of HWMCC'20, has good publication record in formal verification)
    2. [TU Graz-IAIK](https://www.iaik.tugraz.at/research-area/formalmethods/) (Focus on formal method and computer security)
@@ -167,6 +170,8 @@ The papers I selected on here are all from top publication venues. All the selec
    12. [Anton Wijs](https://www.win.tue.nl/~awijs/) (Researcher on leverage GPU to accelerate SAT solving. ParaFROST which performs well on SAT Competition is their tool)
    13. [Maris Christakis](https://mariachris.github.io/software.html) (From MPI. Working on SMT solver fuzzing, program analysis)
    14. [Keijo Heljanko](https://scholar.google.com/citations?hl=en&user=TOSfazMAAAAJ&view_op=list_works&sortby=pubdate) (model checking, data science)
+   15. [Bremen University AGRA](https://agra.informatik.uni-bremen.de/index.php?lang=de) (Using KLEE for RISC-V processor verification)
+   16. [Department of Electrical Engineering and Information Technology, University of Kaiserslautern, Germany](https://eit.rptu.de/fgs/eis/publications) (Formal verification for transient execution attacks)
 3. **Asia**
    1. [Yibo Lin](https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en) (Implement ML for routing and placement)
    2. [Aquinas Hobor](https://www.comp.nus.edu.sg/~hobor/) (Expert on formal verification and computer  security)
